@@ -1,2 +1,0 @@
-# ClassEndProject
-DevOps Certification training
